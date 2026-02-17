@@ -6,4 +6,6 @@
 
 "Just a high schooler exploring the limits of data encoding. I turned a Rubik's Cube into a 300KB octal stream. Looking for someone who can actually solve this."
 
+(A puzzle that even ChatGPT can't solve, can you?)
+
 https://sites.google.com/view/puzzle8-23/%ED%99%88
